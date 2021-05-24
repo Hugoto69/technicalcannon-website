@@ -1,2 +1,2 @@
-# technicalcannon-website
+# TechnicalCannon Website
 Source code of TechnicalCannon Website.
